@@ -33,6 +33,9 @@
 <v t="leo.20200105034634.1"><vh>每周課程內容</vh>
 <v t="leo.20200105040931.1"><vh>每周課程內容</vh></v>
 </v>
+<v t="leo.20200105041800.1"><vh>dart</vh>
+<v t="leo.20200105041805.1"><vh>dartpad</vh></v>
+</v>
 </v>
 </v>
 </v>
@@ -292,5 +295,16 @@ vertical: body pane on the botton</t>
 4.學習 Dart, 並利用 Gist 將 Dartpad 嵌入
 5.利用 Dartpad 與 Html5 Canvas 執行靜態繪圖
 6.利用 dart2js 將 Dart 程式轉為 Javascript 後, 可以直接在網頁中執行.</t>
+<t tx="leo.20200105041800.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200105041805.1">##Dartpad
+&lt;iframe src="https://dartpad.dartlang.org/embed-html.html?gh_owner=s40523113&amp;amp;gh_repo=cp2019&amp;amp;gh_path=downloads/dart_ex/weight&amp;amp;theme=dark" width="800" height="550"&gt;&lt;/iframe&gt;</t>
 </tnodes>
 </leo_file>
