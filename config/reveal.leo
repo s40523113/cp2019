@@ -23,7 +23,9 @@
 </v>
 <v t="leo.20180902120523.11"><vh>快捷鍵</vh>
 <v t="leo.20180902120523.12"><vh>投影片快捷鍵</vh></v>
-<v t="leo.20200105033714.1"><vh>Leo之快捷指令</vh></v>
+</v>
+<v t="leo.20200105033714.1"><vh>Leo之快捷指令</vh>
+<v t="leo.20200105040416.1"><vh>Leo之快捷指令</vh></v>
 </v>
 <v t="leo.20180902120523.13"><vh>學習內容</vh>
 <v t="leo.20180902120523.18"><vh>計算機程式課程內容</vh></v>
@@ -252,13 +254,15 @@ QLineEdit#editorLabel {
 }</t>
 <t tx="leo.20180902120538.3">horizontal: body pane to the left
 vertical: body pane on the botton</t>
-<t tx="leo.20200105033714.1">#Leo快捷指令
+<t tx="leo.20200105033714.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
 
-*ctrl + i   新增
-*ctrl + u   往上
-*ctrl + d   往下
-*ctrl + l    往左
-*ctrl + r   往右</t>
+
+						
+</t>
 <t tx="leo.20200105034634.1">#每周課程內容
 
 1.利用 Github倉儲建立網站
@@ -269,5 +273,12 @@ vertical: body pane on the botton</t>
 6.利用 dart2js 將 Dart 程式轉為 Javascript 後, 可以直接在網頁中執行.</t>
 <t tx="leo.20200105035605.1">#Dart程式碼
 file:///C:/Users/吳宜賢/Desktop/chrome_yxFkousmPo.png</t>
+<t tx="leo.20200105040416.1">#Leo快捷指令
+
+*ctrl + i   新增
+*ctrl + u   往上
+*ctrl + d   往下
+*ctrl + l    往左
+*ctrl + r   往右</t>
 </tnodes>
 </leo_file>
