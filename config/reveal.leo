@@ -348,8 +348,8 @@ vertical: body pane on the botton</t>
 
 						
 </t>
-<t tx="leo.20200107221044.1"># 每周課程內容
+<t tx="leo.20200107221044.1">## 每周課程內容
 
-&lt;img src="/images/chrome_vkGMcLDdNe.png"  height="100" width="200"&gt;</t>
+&lt;img src="../tmp/cp2019/images/chrome_vkGMcLDdNe.png"  height="100" width="200"&gt;</t>
 </tnodes>
 </leo_file>
