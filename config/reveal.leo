@@ -343,15 +343,13 @@ vertical: body pane on the botton</t>
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
-    &lt;img data-src="chrome_vkGMcLDdNe.png" /&gt;
 &lt;/section&gt;
 
 
 						
 </t>
-<t tx="leo.20200107221044.1">&lt;section&gt;
-  &lt;h2&gt;圖形&lt;/h2&gt;
-  &lt;img data-src="chrome_vkGMcLDdNe.png" /&gt;
-&lt;/section&gt;</t>
+<t tx="leo.20200107221044.1"># 每周課程內容
+
+&lt;img src="/images/chrome_vkGMcLDdNe.png"  height="100" width="200"&gt;</t>
 </tnodes>
 </leo_file>
