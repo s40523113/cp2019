@@ -343,6 +343,7 @@ vertical: body pane on the botton</t>
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
+    &lt;img data-src="chrome_vkGMcLDdNe.png" /&gt;
 &lt;/section&gt;
 
 
