@@ -52,9 +52,9 @@
 </vnodes>
 <tnodes>
 <t tx="leo.20180902120523.1"></t>
-<t tx="leo.20180902120523.10">##2019 Fall 計算機程式課程網頁
+<t tx="leo.20180902120523.10">## 2019 Fall 計算機程式課程網頁
 
-###CP2019 -s40523113
+### CP2019 -s40523113
 
 &lt;small&gt;
 Created by [s40523113](https://s40523113.github.io/cp2019)
@@ -92,7 +92,7 @@ Created by [s40523113](https://s40523113.github.io/cp2019)
 
 						
 </t>
-<t tx="leo.20180902120523.18">#計算機程式課程內容
+<t tx="leo.20180902120523.18"># 計算機程式課程內容
 
 1. 利用 Dartpad 學習基本 Dart 語法與 Flutter 應用
 2. 在 Dartpad 中導入 HTML 與 CSS, 利用 Dart 結合 HTML5 Canvas 繪圖
@@ -286,21 +286,21 @@ vertical: body pane on the botton</t>
 
 						
 </t>
-<t tx="leo.20200105040416.1">#Leo快捷指令
+<t tx="leo.20200105040416.1"># Leo快捷指令
 
-*ctrl + i   新增
-*ctrl + u   往上
-*ctrl + d   往下
-*ctrl + l    往左
-*ctrl + r   往右</t>
-<t tx="leo.20200105040931.1">#每周課程內容
+* ctrl + i   新增
+* ctrl + u   往上
+* ctrl + d   往下
+* ctrl + l    往左
+* ctrl + r   往右</t>
+<t tx="leo.20200105040931.1"># 每周課程內容
 
-1.利用 Github倉儲建立網站
-2.編輯個人 CMSiMDE 網頁內容
-3.利用share x錄製影片
-4.學習 Dart, 並利用 Gist 將 Dartpad 嵌入
-5.利用 Dartpad 與 Html5 Canvas 執行靜態繪圖
-6.利用 dart2js 將 Dart 程式轉為 Javascript 後, 可以直接在網頁中執行.</t>
+1. 利用 Github倉儲建立網站
+2. 編輯個人 CMSiMDE 網頁內容
+3. 利用share x錄製影片
+4. 學習 Dart, 並利用 Gist 將 Dartpad 嵌入
+5. 利用 Dartpad 與 Html5 Canvas 執行靜態繪圖
+6. 利用 dart2js 將 Dart 程式轉為 Javascript 後, 可以直接在網頁中執行.</t>
 <t tx="leo.20200105041800.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -310,7 +310,7 @@ vertical: body pane on the botton</t>
 
 						
 </t>
-<t tx="leo.20200105041805.1">##Dartpad
+<t tx="leo.20200105041805.1">## Dartpad
 &lt;iframe src="https://dartpad.dartlang.org/embed-html.html?gh_owner=s40523113&amp;amp;gh_repo=cp2019&amp;amp;gh_path=downloads/dart_ex/weight&amp;amp;theme=dark" width="800" height="550"&gt;&lt;/iframe&gt;</t>
 <t tx="leo.20200105042448.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -321,7 +321,7 @@ vertical: body pane on the botton</t>
 
 						
 </t>
-<t tx="leo.20200105042454.1">##youtube影片嵌入
+<t tx="leo.20200105042454.1">## youtube影片嵌入
 
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/DaS6KTKm8U0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
 <t tx="leo.20200105042729.1">&lt;section data-markdown&gt;
@@ -333,7 +333,7 @@ vertical: body pane on the botton</t>
 
 						
 </t>
-<t tx="leo.20200105042732.1">##國旗繪製
+<t tx="leo.20200105042732.1">## 國旗繪製
 
 &lt;iframe src="https://dartpad.dartlang.org/embed-html.html?gh_owner=s40523113&amp;amp;gh_repo=cp2019&amp;amp;gh_path=downloads/dart_ex/flag&amp;amp;theme=dark" width="800" height="550"&gt;&lt;/iframe&gt;</t>
 </tnodes>
