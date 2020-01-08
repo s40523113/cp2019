@@ -75,6 +75,12 @@
 <v t="leo.20200107231954.1"><vh>newHeadline</vh>
 <v t="leo.20200107231957.1"><vh>newHeadline</vh></v>
 </v>
+<v t="leo.20200108204335.1"><vh>newHeadline</vh>
+<v t="leo.20200108204338.1"><vh>心得</vh></v>
+</v>
+<v t="leo.20200108205835.1"><vh>newHeadline</vh>
+<v t="leo.20200108205837.1"><vh>60</vh></v>
+</v>
 </v>
 </v>
 </v>
@@ -504,5 +510,27 @@ vertical: body pane on the botton</t>
 <t tx="leo.20200107231957.1">### 期末報告:w17國旗繪製
 
 &lt;iframe width="800" height="600" id="iframe" src="https://dartpad.dartlang.org/embed-html.html?gh_owner=s40523113&amp;amp;gh_repo=cp2019&amp;amp;gh_path=downloads/dart_ex/flag&amp;amp;theme=dark"&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20200108204335.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200108204338.1">### 心得
+藉由這學期的課程，雖然有很多東西要自己學習，當然在學習過程中，還有些地方不太清楚或是熟練度不夠等等，但是我認為只要肯投入大量的時間，想必可以收穫滿滿。在這堂課中，學到了製作影片、了解相關程式碼、建立自己的網站，這些對我們以後都會有幫助的。</t>
+<t tx="leo.20200108205835.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200108205837.1">### 自評成績:60分
+理由:對於為何期末自評成績給60分的原因是，每周都會定期加入上課進度在網頁上，並至少commit一次在github上，另外在每周進度中都會加帶有字幕之影片，還有個人網誌以及剪報也有在製作中，dartpad的部分也有在努力去了解，還有其他像是轉javascript等作業，都有呈現在網頁中。</t>
 </tnodes>
 </leo_file>
