@@ -81,6 +81,9 @@
 <v t="leo.20200108205835.1"><vh>newHeadline</vh>
 <v t="leo.20200108205837.1"><vh>60</vh></v>
 </v>
+<v t="leo.20200108211138.1"><vh>newHeadline</vh>
+<v t="leo.20200108211140.1"><vh>newHeadline</vh></v>
+</v>
 </v>
 </v>
 </v>
@@ -531,6 +534,17 @@ vertical: body pane on the botton</t>
 						
 </t>
 <t tx="leo.20200108205837.1">### 自評成績:60分
+理由:對於為何期末自評成績給60分的原因是，每周都會定期加入上課進度在網頁上，並至少commit一次在github上，另外在每周進度中都會加帶有字幕之影片，還有個人網誌以及剪報也有在製作中，dartpad的部分也有在努力去了解，還有其他像是轉javascript等作業，都有呈現在網頁中。</t>
+<t tx="leo.20200108211138.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200108211140.1">### 自評成績:60分
 理由:對於為何期末自評成績給60分的原因是，每周都會定期加入上課進度在網頁上，並至少commit一次在github上，另外在每周進度中都會加帶有字幕之影片，還有個人網誌以及剪報也有在製作中，dartpad的部分也有在努力去了解，還有其他像是轉javascript等作業，都有呈現在網頁中。</t>
 </tnodes>
 </leo_file>
